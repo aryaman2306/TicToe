@@ -1,2 +1,2 @@
 # TicToe
-The same old Ancient game just made by me in python 
+The same ancient game just made by me in python.
